@@ -1,7 +1,3 @@
-Here is a modern and well-formatted README.md version of your setup guide for GitHub:
-
-📄 README.md
-
 ```markdown
 # 🩸 Blood Donation Web App
 
